@@ -1,0 +1,209 @@
+.navbar-brand img {
+    width: 30px;
+}
+
+.backg {
+    background-color: #181818;
+}
+
+.navitemss {
+    justify-content: center;
+}
+
+.navitems {
+    gap: 156px;
+    color: #26a067 !important;
+    font-size: 13px;
+}
+
+.nav-link {
+    color: #ffffff;
+}
+
+.active {
+    color: #ffffff !important;
+}
+
+.sectionmain {
+    background-color: black;
+}
+
+.sectionmain h1 {
+    color: #ffffff;
+    padding-top: 70px;
+    text-align: center;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    font-size: 4rem;
+}
+
+.sectionmain h2 {
+    font-weight: normal;
+    text-align: center;
+    color: #ffffff;
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+
+.button1 {
+    padding:10px 30px;
+    border-radius: 12px;
+}
+
+.div5 {
+    text-align: center;
+}
+
+.div5 img {
+    width: 100%;
+}
+
+.section4 {
+    background-image: url(ipad-pro-featured-v2.png);
+}
+
+.my-5 {
+    margin-bottom: 0px !important;
+}
+
+.div10 h2 {
+    text-align: left;
+    color: #ffffff;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 4rem;
+    padding-top: 70px; 
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+
+.div10 h5 {
+    text-align: left;
+    color: #ffffff;
+    padding-top: 0px;
+    font-size: 25px;
+}
+
+.bbtn {
+    padding-bottom: 290px !important;
+}
+
+.div10 {
+    padding-top: 300px;
+    padding-left: 20px;
+}
+
+.text-bg-dark {
+    background: linear-gradient(#addcee, #d2e9f1, #eff4f7);
+}
+
+.display-5 {
+    color: #000000;
+    font-size: 50px;
+}
+
+.bg-body2 {
+    background-color: transparent !important;
+    border: none;
+}
+
+.position-absolute {
+    bottom: -99px;
+    right: -27px;
+}
+
+.px-md-5 {
+    padding-bottom: 3rem;
+}
+
+.bg-dark {
+    background-color: transparent !important;
+}
+
+.div204 {
+    position: relative;
+}
+
+.img43 {
+    position: absolute;
+    bottom: -51px;
+    right: 69px;
+}
+
+.div205 {
+    position: relative;
+}
+
+.img44 {
+    position: absolute;
+    bottom: 5px;
+    right: 646px;
+}
+
+.bg-body3 {
+    background-color: transparent !important;
+}
+
+.div206 {
+    position: relative;
+}
+
+.img45 {
+    position: absolute;
+    bottom: -59px;
+    right: 66px;
+}
+
+.text-bg-primary {
+    background-color: #fbfbfb !important;
+}
+
+.div207 p {
+    color: black;
+}
+
+.list{
+    padding-top: 20px;
+    background-color: #f5f5f7;
+    display: flex;
+    list-style: none;
+    flex-direction: column;
+    gap: 30px;
+}
+.list1{
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    list-style: none;
+}
+.list2{
+    padding-top: 20px;
+    display: flex;
+    gap: 70px;
+    background-color: #f5f5f7;
+}
+.list3{
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    list-style: none;
+}
+
+.list4 {
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    gap: 30px;
+}
+
+.parent {
+    justify-content: space-evenly;
+}
+
+.list20 {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
